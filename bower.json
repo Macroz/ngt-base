@@ -1,0 +1,8 @@
+{
+  "name": "ngt-base",
+  "version": "0.1.0",
+  "devDependencies": {
+    "ngt": "0.2.0"
+  },
+  "dependencies": {}
+}
